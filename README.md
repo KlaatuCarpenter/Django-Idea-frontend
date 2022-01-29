@@ -1,5 +1,5 @@
 # Front end for Django Idea
-This is code to UI for this repo:  
+This is UI for this repo:  
 https://github.com/KlaatuCarpenter/Django-Idea
 Material UI library is used.  
 
