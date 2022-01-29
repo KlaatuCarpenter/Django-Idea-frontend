@@ -1,6 +1,6 @@
 # Front end for Django Idea
 This is UI for this repo:  
-https://github.com/KlaatuCarpenter/Django-Idea
+https://github.com/KlaatuCarpenter/Django-Idea  
 Material UI library is used.  
 
 ## User authentication
